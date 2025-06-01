@@ -66,7 +66,7 @@ A web-based **Student Management System** built with Flask and MySQL that provid
 ## How to Run Locally
 
 1. **Clone the Repository**:
-git clone https://github.com/kush12bansal/Student-Management-System.git cd Student-Management-System
+git clone https://github.com/Pranav-K25/Student-Management-System/edit/main/README.md
 
 2. **Install Dependencies**:
 Create and activate a virtual environment (optional but recommended):
